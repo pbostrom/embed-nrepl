@@ -5,10 +5,10 @@ CIDER does not load the cider-nrepl middleware when connecting to an embedded nR
 ## Usage
 Start embedded nREPL
 
-`
+```
 $ lein run
 nrepl started on port 7888
-`
+```
 
 Connect cider:
 
