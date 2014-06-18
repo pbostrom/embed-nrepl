@@ -23,10 +23,3 @@ classpath complete info inspect-start inspect-refresh inspect-pop inspect-push i
 Please, install (or update) cider-nrepl 0.7.0-snapshot and restart CIDER
 user>
 ```
-
-## License
-
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
